@@ -63,12 +63,11 @@ Example: `git add .`
 
 ---
 
-### 
+### git commit 
 
+Saves changes made to files to a branch
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git commit -m "message"` <br>
 
 ---
 
