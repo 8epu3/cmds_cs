@@ -71,12 +71,12 @@ Usage:   `git commit -m "message"` <br>
 
 ---
 
-### 
+### git branch 
 
+Creates a new branch
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git branch <name>` <br>
+Example: `git branch new-command`
 
 ---
 
