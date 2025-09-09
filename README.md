@@ -1,9 +1,12 @@
 # Cheat Sheet
 
-basic linux commands.
+##Basic Linux Commands.
 
-### Command 1
-Create new directory
-`mkdir <dir>`
-`mkdir ~/cmds_cs`
+### mkdir
+
+Creates new directories.
+
+Usage:   `mkdir <dir>`
+Example: `mkdir ~/cmds_cs`
+```
 ---
