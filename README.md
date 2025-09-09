@@ -107,12 +107,11 @@ Example: `git merge new-command`
 
 ---
 
-### 
+### git diff 
 
+Shows the changes made since last commit.
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git diff`
 
 ---
 
