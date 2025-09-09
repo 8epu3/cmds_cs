@@ -31,19 +31,18 @@ Example: `touch README.md`
 
 ### nvim - editor 
 
-edit file with editor of choice
+Edit file with editor of choice
 
 Usage:   `nvim <dir/file>` <br>
 Example: `nvim README.md`
 
 ---
 
-### 
+### ssh-keygen
 
+Generates a new ssh key. Can be used to connect to github.
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `ssh-keygen -t ed25519 -C "your@email"` <br>
 
 ---
 
