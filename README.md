@@ -8,4 +8,5 @@ Creates new directories.
 
 Usage:   `mkdir <dir>`
 Example: `mkdir ~/cmds_cs`
+
 ---
