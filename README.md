@@ -1,13 +1,13 @@
 # Cheat Sheet
 
-##Basic Linux Commands.
+## Basic Linux Commands.
 
 ### mkdir
 
 Creates new directories.
 
-Usage:   `mkdir <dir>`
-Example: `mkdir ~/cmds_cs`
+Usage:   `mkdir <dir>` <br>
+Example: `mkdir ~/cmds_cs` 
 
 ---
 
@@ -15,5 +15,18 @@ Example: `mkdir ~/cmds_cs`
 
 Chages your current working directory.
 
-Usage:   `cd <dir>`
+Usage:   `cd <dir>` <br>
 Example: `cd ~/cmds_cs`
+
+---
+
+### touch
+
+Creates empty file.
+
+Usage: `touch <dir/file>` <br>
+Exame: `touch README.md`
+
+---
+
+
