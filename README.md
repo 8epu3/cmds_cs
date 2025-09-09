@@ -54,12 +54,12 @@ Usage:   `git init` <br>
 
 ---
 
-### 
+### git add 
 
+Stages files to be commited to a branch.
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git add <files>` <br>
+Example: `git add .` 
 
 ---
 
