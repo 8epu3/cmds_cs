@@ -46,12 +46,11 @@ Usage:   `ssh-keygen -t ed25519 -C "your@email"` <br>
 
 ---
 
-### 
+### git init 
 
+Creates a new local git repository.
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git init` <br>
 
 ---
 
