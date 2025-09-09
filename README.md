@@ -123,9 +123,9 @@ Usage:   `git pull origin`
 
 ---
 
-### 
+### git clone 
 
+Makes a local copy of a remote repo.
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git clone <remote_repo_url>` <br>
+Example: `git clone https://github.com/8epu3/cmds_cs.git`
