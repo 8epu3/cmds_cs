@@ -85,16 +85,16 @@ Example: `git branch new-command`
 Swictches to a different branch
 
 Usage:   `git checkout <branch_name>` <br>
-Example: `git checkout new command`
+Example: `git checkout new-command`
 
 ---
 
-### 
+### git push 
 
+Pushes all the changes to a remote repo
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git push --all <remote_repo>` <br>
+Example: `git push --all origin`
 
 ---
 
