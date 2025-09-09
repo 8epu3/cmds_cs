@@ -25,8 +25,112 @@ Example: `cd ~/cmds_cs`
 Creates empty file.
 
 Usage: `touch <dir/file>` <br>
-Exame: `touch README.md`
+Example: `touch README.md`
 
 ---
 
+### nvim - editor 
 
+edit file with editor of choice
+
+Usage:   `nvim <dir/file>` <br>
+Example: `nvim README.md`
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
+
+---
+
+### 
+
+
+
+Usage:   `` <br>
+Example: ``
