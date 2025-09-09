@@ -115,12 +115,11 @@ Usage:   `git diff`
 
 ---
 
-### 
+### git pull 
 
+Fetches all the updated changes from the remote repo.
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git pull origin`
 
 ---
 
