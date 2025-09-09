@@ -31,7 +31,7 @@ Example: `touch README.md`
 
 ### nvim - editor 
 
-Edit file with editor of choice
+Edit file with editor of choice.
 
 Usage:   `nvim <dir/file>` <br>
 Example: `nvim README.md`
@@ -65,7 +65,7 @@ Example: `git add .`
 
 ### git commit 
 
-Saves changes made to files to a branch
+Saves changes made to files to a branch.
 
 Usage:   `git commit -m "message"` <br>
 
@@ -73,7 +73,7 @@ Usage:   `git commit -m "message"` <br>
 
 ### git branch 
 
-Creates a new branch
+Creates a new branch.
 
 Usage:   `git branch <branch_name>` <br>
 Example: `git branch new-command`
@@ -82,7 +82,7 @@ Example: `git branch new-command`
 
 ### git checkout 
 
-Swictches to a different branch
+Swictches to a different branch.
 
 Usage:   `git checkout <branch_name>` <br>
 Example: `git checkout new-command`
@@ -91,19 +91,19 @@ Example: `git checkout new-command`
 
 ### git push 
 
-Pushes all the changes to a remote repo
+Pushes all the changes to a remote repo.
 
 Usage:   `git push --all <remote_repo>` <br>
 Example: `git push --all origin`
 
 ---
 
-### 
+### git merge 
 
+Merges a branch into the current branch.
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git merge <other_branch` <br>
+Example: `git merge new-command`
 
 ---
 
