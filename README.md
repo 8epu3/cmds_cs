@@ -75,17 +75,17 @@ Usage:   `git commit -m "message"` <br>
 
 Creates a new branch
 
-Usage:   `git branch <name>` <br>
+Usage:   `git branch <branch_name>` <br>
 Example: `git branch new-command`
 
 ---
 
-### 
+### git checkout 
 
+Swictches to a different branch
 
-
-Usage:   `` <br>
-Example: ``
+Usage:   `git checkout <branch_name>` <br>
+Example: `git checkout new command`
 
 ---
 
